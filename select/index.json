@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "ミカヅキ",
+  "base_artist": "SAYURI",
+  "createdAt": "2025-12-25T20:16:30.018946Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ミカヅキ",
+      "artist": "Sayuri",
+      "has_synced": true,
+      "path": "select/01_ミカヅキ_Sayuri.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ミカヅキ",
+      "artist": "さユり",
+      "has_synced": true,
+      "path": "select/02_ミカヅキ_さユり.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ミカヅキ-Hiro(MY FIRST STORY)Vo ver.-",
+      "artist": "Hiro(MY FIRST STORY)",
+      "has_synced": true,
+      "path": "select/03_ミカヅキ-Hiro(MY_FIRST_STORY)Vo_ver.-_Hiro(MY_FIRST_STORY).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ミカヅキ",
+      "artist": "さユり",
+      "has_synced": true,
+      "path": "select/04_ミカヅキ_さユり.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ミカヅキ -street弾き語りver.-",
+      "artist": "さユり",
+      "has_synced": true,
+      "path": "select/05_ミカヅキ_-street弾き語りver.-_さユり.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ミカヅキ -Hiro (MY FIRST STORY) Vo ver.-",
+      "artist": "Moriuchi, Hiroki",
+      "has_synced": true,
+      "path": "select/06_ミカヅキ_-Hiro_(MY_FIRST_STORY)_Vo_ver.-_Moriuchi,_Hiroki.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ミカヅキ -Hiro (MY FIRST STORY) Vo ver.-",
+      "artist": "森内寛樹",
+      "has_synced": true,
+      "path": "select/07_ミカヅキ_-Hiro_(MY_FIRST_STORY)_Vo_ver.-_森内寛樹.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ミカヅキ",
+      "artist": "フユ゚",
+      "has_synced": true,
+      "path": "select/08_ミカヅキ_フユ゚.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ミカヅキ",
+      "artist": "さユり",
+      "has_synced": true,
+      "path": "select/09_ミカヅキ_さユり.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ミカヅキ",
+      "artist": "Chatmonchy",
+      "has_synced": false,
+      "path": "select/10_ミカヅキ_Chatmonchy.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ミカヅキ-Hiro(MY FIRST STORY)Vo ver.-",
+      "artist": "さユり & MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/11_ミカヅキ-Hiro(MY_FIRST_STORY)Vo_ver.-_さユり_&_MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "MIKAZUKI [ミカヅキ]",
+      "artist": "Sayuri [さユり]",
+      "has_synced": true,
+      "path": "select/12_MIKAZUKI_[ミカヅキ]_Sayuri_[さユり].lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ミカヅキ - Mikazuki",
+      "artist": "SAYURI",
+      "has_synced": true,
+      "path": "select/13_ミカヅキ_-_Mikazuki_SAYURI.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ミカヅキ",
+      "artist": "Sayuri",
+      "has_synced": true,
+      "path": "select/14_ミカヅキ_Sayuri.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ミカヅキ-Hiro(MY FIRST STORY)Vo ver.-",
+      "artist": "HIRO",
+      "has_synced": true,
+      "path": "select/15_ミカヅキ-Hiro(MY_FIRST_STORY)Vo_ver.-_HIRO.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ミカヅキ-street弾き語りver.",
+      "artist": "Sayuri",
+      "has_synced": true,
+      "path": "select/16_ミカヅキ-street弾き語りver._Sayuri.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ミカヅキ",
+      "artist": "さユり",
+      "has_synced": true,
+      "path": "select/17_ミカヅキ_さユり.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミカヅキ",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_01_ミカヅキ_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ミカヅキ",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_02_ミカヅキ_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ミカヅキ",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_03_ミカヅキ_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ミカヅキ",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_04_ミカヅキ_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ミカヅキ",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_05_ミカヅキ_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "ミカヅキ",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_06_ミカヅキ_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "ミカヅキ",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_07_ミカヅキ_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "ミカヅキ-street弾き語りver.",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_08_ミカヅキ-street弾き語りver._さユり.txt"
+    }
+  ]
+}
